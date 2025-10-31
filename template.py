@@ -12,9 +12,9 @@ list_of_files = [
     ".env"
     "requirements.txt",
     "setup.py",
-    "aap.py"
+    "app.py",
     "README.md",
-    "reserach/trails.ipnb"
+    "research/trails.ipynb"
 ]
 
 for file in list_of_files:
